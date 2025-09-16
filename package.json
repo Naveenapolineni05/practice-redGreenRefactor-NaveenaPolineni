@@ -1,0 +1,23 @@
+{
+  "name": "practice-redgreenrefactor-naveenapolineni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countVowels.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naveenapolineni05/practice-redGreenRefactor-NaveenaPolineni.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naveenapolineni05/practice-redGreenRefactor-NaveenaPolineni/issues"
+  },
+  "homepage": "https://github.com/Naveenapolineni05/practice-redGreenRefactor-NaveenaPolineni#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
